@@ -1,0 +1,7 @@
+Examen Marzo 2016
+1) en los esquemas de ejecuciòn estatico y basado en pila
+a) que elementos comparten y cuales se agregan en el registro de activación basado en pila
+b)que elementos se guardan en memoria en el esquema de ejecución basado en pila
+c)donde se guardan en el esquema dinamico y porque
+2)tiempo de vida-alcance. Defina estos elementos, como se clasifican las variables según estos términos. De un ejemplo de cada una de estas variables
+3)Sistema de tipos-compatibilidad de tipos. Defina estos terminos, relaciónelos y ejemplifique.

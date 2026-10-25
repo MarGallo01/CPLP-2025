@@ -1,0 +1,14 @@
+﻿Final 1er llamado de Febrero 2016 - Conceptos
+
+1)Sea el lenguaje X un lenguaje con esquema de ejecución estático:
+  a)Explique a nivel semántico qué sucede cuando se ejecuta un programa escrito con dicho lenguaje.
+  b)Indique qué casos debe tener en cuenta el programador que lo utiliza para saber qué limitaciones tendrá a la hora de programar.
+  c)Analice los tipos de variables que pueden utilizarse en este esquema.
+NOTA:todas las respuestas deben tener una justificación teórica.
+
+2)Transparencia referencial y currificación son dos conceptos que pertenecen a algún paradigma. Diga cuál y qué indican los mismos.
+
+3)a)Indique formas de compartir datos entre unidades y diga cuál a su criterio es la mejor opción (Justificar)
+  b)Analice semánticamente el pasaje por nombre y el pasaje por referencia. Cite diferencias. Ejemplifique.
+
+4)Constantes y variables estáticas son conceptos similares? Justifique tanto si su respuesta es afirmativa o negativa.  

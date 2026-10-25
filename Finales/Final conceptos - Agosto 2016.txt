@@ -1,0 +1,21 @@
+1) Estructuras de control. Sentencias de asignación. Diferencias del lenguaje C con el resto.
+2)A) Mencionar al menos dos características que debe tener la sintaxis de un lenguaje de programación. Justificar.
+  B) Definir sintaxis abstracta, concreta y pragmática. Ejemplificar.
+  C) Diferencias entre semántica estática y dinámica.
+3)A) Diferencias semánticas y de resultado entre dos variables en un fragmento de código C:
+	int prueba(){
+		int x = 0;
+		static int y = 0;
+		x = x + 1;
+		y = y + 1;
+		return(x+y);
+	}
+	main(){
+		//Sentencias
+	}
+  B) Punteros: a qué tipo de variables según su tiempo de vida pertenecen (estáticas, semidinámicas/automáticas, semidinámicas, dinámicas). Tiempo de vida
+de las variables puntero. Mencionar problemas en el uso de punteros ademas de generar alias.
+4)A) Definición de sistema de tipos.
+  B) Lenguajes fuertemente tipados, definición.
+5) Diferencias entre pasaje de parámetro por referencia y por nombre. Ejemplificar y justificar.
+6) Paradigmas. Diferencias entre los lenguajes funcionales y lenguajes imperativos.

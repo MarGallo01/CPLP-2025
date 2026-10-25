@@ -1,0 +1,25 @@
+1)Excepciones
+
+	a-Plantee la situación en la cual sería beneficioso que su lenguaje cuente con manejo de excepciones.
+	Detalle como sería la solución si no contase con un lenguaje con manejo de excepciones y, como sería si contase
+	con un lenguaje de esas características. Para el último caso, tome un lenguaje de los vistos que provea manejo de excepciones
+	y realice el ejemplo con él.
+
+	b-Detalle de manera completa características del manejo de excepciones del lenguaje elegido.
+
+2)Manejo de Memoria
+
+	a-Indique como es el manejo de memoria en esquemas de ejecución estática, basado en pila y dinámico.
+
+	b-Indique que elementos necesita un esquema basado en pila para controlar la zona de datos.
+
+	c-Indique que ventajas tiene un esquema basado en pila respecto del esquema estático.
+
+3)Sintaxis
+
+	a-Qué es BNF y EBNF? Defina y detalle sus diferencias. Ejemplifique.
+
+	b-Que diferencia hay entre BNF y gramática de atributos?
+
+
+4)Compare el paradigma lógico con el funcional. De al menos 3 diferencias.

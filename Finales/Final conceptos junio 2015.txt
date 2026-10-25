@@ -1,0 +1,18 @@
+FINAL JUNIO/15
+
+1) Sistema de tipos
+a) Defina Sistema de tipos y tipos de datos
+b) es lo mismo que un lenguaje sea fuertemente tipado a que tenga tipado estático? justifique, en caso que sea distinto ejemplifique
+c) compatibilidad de tipos
+
+2)Esquema de ejecucion
+a) porque en esquema estatico de ejecucion no puede haber recursividad? porque las variables son sensibles a la historia?
+b) en esquema estatico puede haber variables automaticas? Justifique
+c) que tipo de variables son los punteros, segun su tiempo de vida? que problemas podrian traer ademas de generar alias?
+
+3) Sintaxis
+a) que significa que una gramatica BFN o EBNF sea libre de contexto? ejemplifique
+b) que analizan las reglas lexicas?
+
+4) Paradigmas de programacion
+a) Compare paragidmas funcional y paradigma imperativo

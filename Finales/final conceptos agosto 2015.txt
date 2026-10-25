@@ -1,0 +1,12 @@
+ 1- a) Como se clasifican las variables con respecto a su L valor y que caracteristicas tiene cada una.
+b) De las variables explicadas en el punto a) , dar dos ejemplos (que cada uno se refiera un tipo de variable) , dejando claro y justificando porqué es util ese tipo de variable y no otra.
+c) El l-valor de una variable se relaciona con su alcance? Justificar
+
+2- Definir los conceptos de sintaxis abstracta concreta y pragmatica,y ejemplificar cada una.
+
+3- a)Dado un lenguaje nuevo,explicar que caracteristicas tienen que ser tenidas en cuenta para un buen manejo de excepciones.
+b) Para cada caracteristica del punto a), explicar como la implementa CLU o JAVA.
+
+4-Dar al menos 3 diferencias entre el paradigma logico y el imperativo.
+
+5-Si se quiere resolver una solucion para un problema,que lenguaje eligiria y porque? Teniendo en cuenta los conceptos vistos en la materia.
